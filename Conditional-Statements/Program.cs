@@ -13,10 +13,10 @@ namespace Conditional_Statements
     {
         static void Main(string[] args)
         {
-            // Ask the user for input
+            // Ask the user for input 
             Console.WriteLine("Please enter a Sales Amount ...");
             /*
-               Use the try catch block to validate user input.
+               Use the try catch block to validate user input. new
                If the user provides bad input, the catch block
                will handle the error and a message will be displayed.
             */
